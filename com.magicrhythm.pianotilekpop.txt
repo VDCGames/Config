@@ -1,1 +1,1 @@
-{[ "os": "android", "config": [  ] ], [ "os": "ios", "config": [ ] ] }
+{"config":[{"os":"android","config":{}},{"os":"ios","config":{"enbale_bts_blackpink":"true"}}]}
