@@ -1,1 +1,1 @@
-{"config":[{"os":"android","config":{"enbale_bts_blackpink":"true"}},{"os":"ios","config":{"enbale_bts_blackpink":"false"}}]}
+{"config":[{"os":"android","config":{"enbale_bts_blackpink":"true"}},{"os":"ios","config":{"enbale_bts_blackpink":"true"}}]}
