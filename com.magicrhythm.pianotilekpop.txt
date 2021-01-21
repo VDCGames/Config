@@ -1,1 +1,17 @@
-{"config":[{"os":"android","config":{"enbale_bts_blackpink_default":"true"}},{"os":"ios","config":{"enbale_bts_blackpink_1.0.9":"true","enbale_bts_blackpink_default":"true"}}]}
+{
+  "config": [
+    {
+      "os": "android",
+      "config": {
+        "enbale_bts_blackpink_default": "true"
+      }
+    },
+    {
+      "os": "ios",
+      "config": {
+        "enbale_bts_blackpink_1.1.0": "false",
+        "enbale_bts_blackpink_default": "true"
+      }
+    }
+  ]
+}
